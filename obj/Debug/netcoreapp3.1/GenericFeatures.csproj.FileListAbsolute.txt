@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.exe
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.deps.json
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.runtimeconfig.json
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.runtimeconfig.dev.json
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.dll
+C:\Users\md048\source\repos\GenericFeatures\bin\Debug\netcoreapp3.1\GenericFeatures.pdb
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.AssemblyInfo.cs
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.dll
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.pdb
+C:\Users\md048\source\repos\GenericFeatures\obj\Debug\netcoreapp3.1\GenericFeatures.genruntimeconfig.cache
